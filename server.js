@@ -10,7 +10,7 @@ var bodyParser = require('body-parser'); // pull info from html post
 var methodOverride = require('method-override'); // simulate Delete and put
 
 
-mongoose.connect('mongodb+srv://username:password@cluster0-aahff.mongodb.net/todo');     // connect to mongoDB database on mLab
+mongoose.connect('mongodb+srv://yourusername:yourpassword@cluster0-aahff.mongodb.net/todo');     // connect to mongoDB database on mLab
 
 app.use(express.static(__dirname + '/public')); // set the static files location /public/img will be /img for users
 app.use(morgan('dev'));  // log every request to the console
