@@ -9,4 +9,5 @@
 
 Here's what it looks like in action. ( Wait for GIF )
 
-![Alt Text](https://github.com/hrkbrahmbhatt/Todo/Todo.gif)
+![Alt Text](https://github.com/hrkbrahmbhatt/Todo/blob/master/Todo.gif)
+
